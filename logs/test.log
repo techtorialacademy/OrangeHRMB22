@@ -1,0 +1,627 @@
+2025-02-07 20:32:23 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:32:24 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-07 20:32:24 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:24 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:24 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:32:25 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-07 20:32:25 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-02-07 20:32:25 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-02-07 20:32:26 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-02-07 20:32:26 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:32:26 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:26 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:26 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:32:26 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-07 20:32:27 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-07 20:32:27 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-07 20:32:27 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-07 20:32:27 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:32:27 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:27 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:27 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:32:27 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-07 20:32:28 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-07 20:32:28 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-07 20:32:28 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-07 20:32:28 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:32:28 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:28 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:28 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:32:28 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-07 20:32:29 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-07 20:32:29 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-07 20:32:29 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-07 20:32:29 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:32:29 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:29 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:29 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:32:29 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-07 20:32:30 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-07 20:32:30 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-07 20:32:30 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-07 20:32:30 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:32:30 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:30 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:30 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:32:30 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-07 20:32:31 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-07 20:32:31 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-07 20:32:31 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-07 20:32:31 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:32:31 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:31 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:31 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - 715c9a911147453b20c3c29f840790fa
+2025-02-07 20:32:32 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:32:33 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-02-07 20:32:33 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-02-07 20:35:55 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:35:56 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-07 20:35:56 [main] INFO  utils.LoggerUtils - 3bb344be6c3ad4b0b79dd7c0c89a0353
+2025-02-07 20:35:56 [main] INFO  utils.LoggerUtils - 3bb344be6c3ad4b0b79dd7c0c89a0353
+2025-02-07 20:35:56 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:35:57 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-07 20:35:58 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-02-07 20:35:58 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-02-07 20:35:58 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-02-07 20:35:58 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:35:59 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-07 20:35:59 [main] INFO  utils.LoggerUtils - 02f17487ced73f303ee778e6cc13121e
+2025-02-07 20:35:59 [main] INFO  utils.LoggerUtils - 02f17487ced73f303ee778e6cc13121e
+2025-02-07 20:35:59 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:36:00 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-07 20:36:00 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:36:01 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-07 20:36:01 [main] INFO  utils.LoggerUtils - fa34285781b0ce1899a6d92312751433
+2025-02-07 20:36:01 [main] INFO  utils.LoggerUtils - fa34285781b0ce1899a6d92312751433
+2025-02-07 20:36:01 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:36:02 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-07 20:36:02 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:36:03 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-07 20:36:03 [main] INFO  utils.LoggerUtils - 97dc0d9ee3ff290666b83f342ef8221c
+2025-02-07 20:36:03 [main] INFO  utils.LoggerUtils - 97dc0d9ee3ff290666b83f342ef8221c
+2025-02-07 20:36:03 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-07 20:36:03 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-07 20:36:04 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-07 20:36:04 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-07 20:36:04 [main] INFO  utils.LoggerUtils - b4b093ce252a156e353be7b8a82f01d3
+2025-02-07 20:36:04 [main] INFO  utils.LoggerUtils - b4b093ce252a156e353be7b8a82f01d3
+2025-02-07 20:36:04 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 11:50:43 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 11:50:45 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 11:50:45 [main] INFO  utils.LoggerUtils - 34c404ae2c4ee96ea4fd9dc3255a0927
+2025-02-08 11:50:45 [main] INFO  utils.LoggerUtils - 34c404ae2c4ee96ea4fd9dc3255a0927
+2025-02-08 11:50:45 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 11:50:46 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 11:50:46 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 11:50:47 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 11:50:47 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 11:50:49 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 11:50:49 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 11:50:49 [main] INFO  utils.LoggerUtils - 34c404ae2c4ee96ea4fd9dc3255a0927
+2025-02-08 11:50:49 [main] INFO  utils.LoggerUtils - 34c404ae2c4ee96ea4fd9dc3255a0927
+2025-02-08 11:50:49 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 11:50:50 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 11:50:50 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 11:50:51 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 11:50:51 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 11:50:52 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 11:51:27 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 11:51:29 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 11:51:29 [main] INFO  utils.LoggerUtils - 64b135b3d977851006d26c13e4f776e8
+2025-02-08 11:51:29 [main] INFO  utils.LoggerUtils - 64b135b3d977851006d26c13e4f776e8
+2025-02-08 11:51:29 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 11:51:30 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 11:51:30 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 11:51:31 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 11:51:31 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 11:51:33 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 11:51:33 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 11:51:33 [main] INFO  utils.LoggerUtils - 64b135b3d977851006d26c13e4f776e8
+2025-02-08 11:51:33 [main] INFO  utils.LoggerUtils - 64b135b3d977851006d26c13e4f776e8
+2025-02-08 11:51:33 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 11:51:33 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 11:51:34 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 11:51:35 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 11:51:35 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 11:51:36 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 11:54:14 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 11:54:15 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 11:54:15 [main] INFO  utils.LoggerUtils - a2475eebdbe08f14b5ba9f1668648324
+2025-02-08 11:54:15 [main] INFO  utils.LoggerUtils - a2475eebdbe08f14b5ba9f1668648324
+2025-02-08 11:54:15 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 11:54:16 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 11:54:17 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 11:54:18 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 11:54:18 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 11:54:50 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 11:55:00 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 11:55:00 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 11:55:00 [main] INFO  utils.LoggerUtils - a2475eebdbe08f14b5ba9f1668648324
+2025-02-08 11:55:00 [main] INFO  utils.LoggerUtils - a2475eebdbe08f14b5ba9f1668648324
+2025-02-08 11:55:00 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 11:55:01 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 11:55:02 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 11:55:02 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 11:55:03 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 11:55:04 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:03:43 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:03:44 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:03:44 [main] INFO  utils.LoggerUtils - 5984e2a9d9a07685f2c45c4246b0dd18
+2025-02-08 12:03:44 [main] INFO  utils.LoggerUtils - 5984e2a9d9a07685f2c45c4246b0dd18
+2025-02-08 12:03:44 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:03:45 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:03:46 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:03:47 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:03:47 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:03:48 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:03:58 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:03:58 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:03:58 [main] INFO  utils.LoggerUtils - 5984e2a9d9a07685f2c45c4246b0dd18
+2025-02-08 12:03:58 [main] INFO  utils.LoggerUtils - 5984e2a9d9a07685f2c45c4246b0dd18
+2025-02-08 12:03:58 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:03:59 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:03:59 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:04:00 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:04:01 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:04:01 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:04:11 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:05:19 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:05:21 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:05:21 [main] INFO  utils.LoggerUtils - 1e2942b1d11d47f68e41b206da24cbcf
+2025-02-08 12:05:21 [main] INFO  utils.LoggerUtils - 1e2942b1d11d47f68e41b206da24cbcf
+2025-02-08 12:05:21 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:05:22 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:05:22 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:05:23 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:05:23 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:05:24 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:05:34 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:05:34 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:05:34 [main] INFO  utils.LoggerUtils - 1e2942b1d11d47f68e41b206da24cbcf
+2025-02-08 12:05:34 [main] INFO  utils.LoggerUtils - 1e2942b1d11d47f68e41b206da24cbcf
+2025-02-08 12:05:34 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:05:35 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:05:35 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:05:36 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:05:36 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:05:37 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:05:47 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:06:19 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:06:20 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:06:20 [main] INFO  utils.LoggerUtils - dce59de57dd0465e2a8690a4f6096f36
+2025-02-08 12:06:20 [main] INFO  utils.LoggerUtils - dce59de57dd0465e2a8690a4f6096f36
+2025-02-08 12:06:20 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:06:22 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:06:22 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:06:23 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:06:23 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:06:24 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:06:34 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:06:34 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:06:34 [main] INFO  utils.LoggerUtils - dce59de57dd0465e2a8690a4f6096f36
+2025-02-08 12:06:34 [main] INFO  utils.LoggerUtils - dce59de57dd0465e2a8690a4f6096f36
+2025-02-08 12:06:34 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:06:35 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:06:35 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:06:36 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:06:36 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:06:37 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:09:45 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:09:47 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:09:47 [main] INFO  utils.LoggerUtils - 0cfc0c00d4d23eea4e6c84ba1bc6c03b
+2025-02-08 12:09:47 [main] INFO  utils.LoggerUtils - 0cfc0c00d4d23eea4e6c84ba1bc6c03b
+2025-02-08 12:09:47 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:09:48 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:09:49 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:09:49 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:09:50 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:09:51 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:09:52 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:09:53 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:09:53 [main] INFO  utils.LoggerUtils - 0cfc0c00d4d23eea4e6c84ba1bc6c03b
+2025-02-08 12:09:53 [main] INFO  utils.LoggerUtils - 0cfc0c00d4d23eea4e6c84ba1bc6c03b
+2025-02-08 12:09:53 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:09:53 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:09:54 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:09:55 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:09:55 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:09:56 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:09:58 [main] INFO  utils.LoggerUtils - Success message after saving the form is successfully displayed.
+2025-02-08 12:10:01 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:10:23 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:10:25 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:10:25 [main] INFO  utils.LoggerUtils - aac106773b0fa05f876866dca3b6ea9a
+2025-02-08 12:10:25 [main] INFO  utils.LoggerUtils - aac106773b0fa05f876866dca3b6ea9a
+2025-02-08 12:10:25 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:10:26 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:10:27 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:10:27 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:10:28 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:10:29 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:10:39 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:10:40 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:10:40 [main] INFO  utils.LoggerUtils - aac106773b0fa05f876866dca3b6ea9a
+2025-02-08 12:10:40 [main] INFO  utils.LoggerUtils - aac106773b0fa05f876866dca3b6ea9a
+2025-02-08 12:10:40 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:10:40 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:10:41 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:10:42 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:10:42 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:10:43 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:11:00 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:11:01 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:11:01 [main] INFO  utils.LoggerUtils - 51bce696d3875501aea7a7c7a961dcca
+2025-02-08 12:11:01 [main] INFO  utils.LoggerUtils - 51bce696d3875501aea7a7c7a961dcca
+2025-02-08 12:11:01 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:11:03 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:11:03 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:11:04 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:11:04 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:11:06 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:11:07 [main] INFO  utils.LoggerUtils - Success message after saving the form is successfully displayed.
+2025-02-08 12:11:10 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:11:11 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:11:11 [main] INFO  utils.LoggerUtils - 51bce696d3875501aea7a7c7a961dcca
+2025-02-08 12:11:11 [main] INFO  utils.LoggerUtils - 51bce696d3875501aea7a7c7a961dcca
+2025-02-08 12:11:11 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:11:11 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:11:12 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:11:13 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:11:13 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:11:15 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:11:16 [main] INFO  utils.LoggerUtils - Success message after saving the form is successfully displayed.
+2025-02-08 12:11:19 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:52:04 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:52:06 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:52:06 [main] INFO  utils.LoggerUtils - d25c903069becac41435b686a54250ad
+2025-02-08 12:52:06 [main] INFO  utils.LoggerUtils - d25c903069becac41435b686a54250ad
+2025-02-08 12:52:06 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:52:07 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:52:08 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:52:09 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:52:09 [main] INFO  utils.LoggerUtils - d25c903069becac41435b686a54250ad
+2025-02-08 12:52:09 [main] INFO  utils.LoggerUtils - d25c903069becac41435b686a54250ad
+2025-02-08 12:52:09 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:52:09 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:52:10 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:57:17 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:57:18 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:57:18 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:18 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:18 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:57:19 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:57:20 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:57:20 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:57:21 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:57:22 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:57:24 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:57:24 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:57:24 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:24 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:24 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:57:24 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:57:25 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:57:26 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:57:26 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:57:28 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:57:29 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:57:29 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:57:29 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:29 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:29 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:57:29 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:57:30 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:57:41 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:57:41 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:57:41 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:41 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:41 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:57:41 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:57:42 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:57:53 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:57:53 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:57:53 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:53 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:53 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:57:54 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:57:54 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-02-08 12:57:54 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-02-08 12:57:54 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-02-08 12:57:54 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:57:54 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:54 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:57:54 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:57:55 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 12:57:55 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 12:58:05 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:58:06 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:58:06 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:06 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:06 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:58:06 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 12:58:07 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 12:58:07 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-08 12:58:07 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-08 12:58:07 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:58:07 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:07 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:07 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:58:07 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 12:58:08 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 12:58:08 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-08 12:58:08 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-08 12:58:08 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:58:08 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:08 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:08 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:58:08 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 12:58:09 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 12:58:09 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-08 12:58:09 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-08 12:58:09 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:58:09 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:09 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:09 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:58:09 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 12:58:10 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 12:58:10 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-08 12:58:10 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-08 12:58:10 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:58:10 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:10 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:10 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:58:10 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - f4a9a26955349e510119e59f456c5ae0
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:58:11 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-02-08 12:58:12 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-02-08 12:58:46 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:58:48 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:58:48 [main] INFO  utils.LoggerUtils - dbc60d40e1a9595403ee70865758e9a8
+2025-02-08 12:58:48 [main] INFO  utils.LoggerUtils - dbc60d40e1a9595403ee70865758e9a8
+2025-02-08 12:58:48 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:58:49 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:58:50 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:58:52 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:58:52 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:58:54 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 12:59:03 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 12:59:04 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:59:04 [main] INFO  utils.LoggerUtils - dbc60d40e1a9595403ee70865758e9a8
+2025-02-08 12:59:04 [main] INFO  utils.LoggerUtils - dbc60d40e1a9595403ee70865758e9a8
+2025-02-08 12:59:04 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 12:59:04 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 12:59:05 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 12:59:06 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 12:59:06 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 12:59:57 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 12:59:58 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 12:59:58 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 12:59:58 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 12:59:58 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:00 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:00:00 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 13:00:01 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 13:00:02 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 13:00:03 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 13:00:04 [main] INFO  utils.LoggerUtils - Success message after saving the form is successfully displayed.
+2025-02-08 13:00:07 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:00:07 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:07 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:07 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:07 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:08 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:00:09 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 13:00:09 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 13:00:10 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 13:00:11 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 13:00:12 [main] INFO  utils.LoggerUtils - Success message after saving the form is successfully displayed.
+2025-02-08 13:00:15 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:00:15 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:15 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:15 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:15 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:16 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:00:16 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 13:00:27 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:00:28 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:28 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:28 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:28 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:28 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:00:29 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 13:00:40 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:00:40 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:40 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:40 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:40 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:41 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:00:41 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-02-08 13:00:41 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-02-08 13:00:41 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-02-08 13:00:41 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:41 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:41 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:41 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:42 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 13:00:42 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 13:00:53 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:00:53 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:53 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:53 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:53 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:53 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 13:00:54 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 13:00:54 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-08 13:00:54 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-08 13:00:54 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:54 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:54 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:54 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:54 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 13:00:55 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 13:00:55 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-08 13:00:55 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-08 13:00:55 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:55 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:55 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:55 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:55 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 13:00:56 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 13:00:56 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-08 13:00:56 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-08 13:00:56 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:56 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:56 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:56 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:56 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:57 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:58 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-02-08 13:00:58 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-02-08 13:00:58 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:00:58 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:58 [main] INFO  utils.LoggerUtils - 9b87f39626b7e3d3f2005e4dfce94f51
+2025-02-08 13:00:58 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:00:58 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-02-08 13:00:58 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-02-08 13:03:08 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:03:10 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-02-08 13:03:10 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:03:10 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:03:10 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:03:11 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:03:12 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 13:03:12 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 13:03:12 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 13:03:14 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 13:03:24 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:03:24 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:03:24 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:03:24 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:03:24 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:03:25 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:03:26 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 13:03:26 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-02-08 13:03:27 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-02-08 13:03:28 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-02-08 13:03:38 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:03:38 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:03:38 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:03:38 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:03:38 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:03:39 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:03:40 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 13:03:50 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:03:50 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:03:50 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:03:50 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:03:50 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:03:51 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:03:52 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-02-08 13:04:02 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:04:03 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:04:03 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:04:03 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:04:03 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:04:03 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-02-08 13:04:04 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-02-08 13:04:04 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-02-08 13:04:04 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-02-08 13:04:04 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:04:04 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:04:04 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:04:04 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:04:05 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 13:04:05 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 13:04:15 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:04:15 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:04:15 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:04:15 [main] INFO  utils.LoggerUtils - 0f860860174c918c14865a48723d6c8d
+2025-02-08 13:04:15 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-02-08 13:04:16 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-02-08 13:04:16 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-02-08 13:04:16 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:04:16 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:04:16 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:04:16 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:04:16 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:04:16 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:04:16 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:04:16 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:04:16 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:04:16 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:04:16 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-02-08 13:04:16 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-02-08 13:04:16 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-25 17:38:09 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-25 17:38:11 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-25 17:38:11 [main] INFO  utils.LoggerUtils - 0ac3ebae0c15d1eaad6542a8eabde4c5
+2025-04-25 17:38:11 [main] INFO  utils.LoggerUtils - 0ac3ebae0c15d1eaad6542a8eabde4c5
+2025-04-25 17:38:11 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-25 17:38:12 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-25 17:38:13 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-04-25 17:38:13 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-25 17:39:14 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-25 17:39:15 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-25 17:39:15 [main] INFO  utils.LoggerUtils - ab3e39e68cf9729759ce77f884b6180c
+2025-04-25 17:39:15 [main] INFO  utils.LoggerUtils - ab3e39e68cf9729759ce77f884b6180c
+2025-04-25 17:39:15 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-25 17:39:16 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-25 17:39:16 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-25 17:39:18 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-25 17:39:18 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-25 17:39:28 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-25 17:39:29 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-25 17:39:29 [main] INFO  utils.LoggerUtils - ab3e39e68cf9729759ce77f884b6180c
+2025-04-25 17:39:29 [main] INFO  utils.LoggerUtils - ab3e39e68cf9729759ce77f884b6180c
+2025-04-25 17:39:29 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-25 17:39:29 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-25 17:39:30 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-25 17:39:31 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-25 17:39:31 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-25 17:39:41 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-25 17:39:41 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-25 17:39:41 [main] INFO  utils.LoggerUtils - ab3e39e68cf9729759ce77f884b6180c
+2025-04-25 17:39:41 [main] INFO  utils.LoggerUtils - ab3e39e68cf9729759ce77f884b6180c
+2025-04-25 17:39:41 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-25 17:39:42 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-25 17:39:43 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-25 17:39:53 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-25 17:39:53 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-25 17:39:53 [main] INFO  utils.LoggerUtils - ab3e39e68cf9729759ce77f884b6180c
+2025-04-25 17:39:53 [main] INFO  utils.LoggerUtils - ab3e39e68cf9729759ce77f884b6180c
+2025-04-25 17:39:53 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-25 17:39:54 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-25 17:39:55 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
