@@ -15,7 +15,7 @@ Feature: Admin Page - User Management
     And the new user should be listed with following information "<userRole>" "<userName>" "<employeeName>" "<status>" "<password>"
     Examples:
       | userRole | userName       | employeeName         | status   | password |
-      | ESS      | adminPageTest11 | Kate Jane Austen     | Enabled  | admin321 |
+      | ESS      | adminPageTest11 | Russel Hamilton     | Enabled  | admin321 |
       | Admin    | adminPageTest21 | Timothy Lewis Amiano | Enabled  | admin456 |
 
   Scenario Outline: Edit an existing system user
@@ -24,7 +24,7 @@ Feature: Admin Page - User Management
     Then the user should be listed with following information "<userRole>" "<userName>" "<employeeName>" "<status>"
     Examples:
       | userRole | userName       | employeeName            | status    |
-      | Admin      | adminPageTest11 | Kate Jane Austen     | Disabled  |
+      | Admin      | adminPageTest11 | Russel Hamilton     | Disabled  |
       | ESS        | adminPageTest21 | Timothy Lewis Amiano | Disabled  |
 
 

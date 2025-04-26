@@ -9,6 +9,8 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
 import java.time.Duration;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Driver {
 
@@ -24,7 +26,13 @@ public class Driver {
           if(driver == null ||((RemoteWebDriver)driver).getSessionId() == null) {
                switch (ConfigReader.readProperty("browser")) {
                     case "chrome":
+                         Map<String, Object> prefs = new HashMap<>();
+                         prefs.put("credentials_enable_service", false);              // turns off password-saving
+                         prefs.put("profile.password_manager_enabled", false);         // turns off the UI bubble
+                         prefs.put("profile.password_manager_leak_detection", false);  // <-- kills the “password is not safe” banner
+
                          ChromeOptions options = new ChromeOptions();
+                         options.setExperimentalOption("prefs", prefs);
 //                         options.addArguments("--headless");
 //                         options.addArguments("--disable-dev-shm-usage");
 //                         options.addArguments("--disable-gpu");
