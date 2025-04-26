@@ -25,6 +25,7 @@ pipeline{
         stage('Checkout'){
             steps{
                 git url: 'https://github.com/techtorialacademy/OrangeHRMB22.git',
+                 branch: 'main',
                 credentialsId: 'git-pat'
             }
         }
