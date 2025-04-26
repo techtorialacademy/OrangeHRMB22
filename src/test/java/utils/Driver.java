@@ -38,6 +38,7 @@ public class Driver {
 //                         options.addArguments("--disable-gpu");
                          options.addArguments("--window-size=1920,1080");
                          driver = new ChromeDriver(options);
+                         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(25));
                          LoggerUtils.info("The driver setup is complete with chrome driver.");
                          break;
                     case "firefox":
