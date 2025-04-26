@@ -1076,3 +1076,647 @@
 2025-04-26 10:17:22 [main] INFO  utils.LoggerUtils - ______________---------_____________
 2025-04-26 10:17:23 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
 2025-04-26 10:17:23 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-04-26 11:38:02 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:38:04 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-26 11:38:04 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:04 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:04 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:38:05 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:38:06 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:38:06 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:38:07 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:38:17 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:38:17 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:38:17 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:17 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:17 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:38:18 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:38:19 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:38:19 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:38:20 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:38:21 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-04-26 11:38:23 [main] INFO  utils.LoggerUtils - Success message after saving the form is successfully displayed.
+2025-04-26 11:38:26 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:38:26 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:38:26 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:26 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:26 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:38:26 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:38:27 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:38:38 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:38:38 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:38:38 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:38 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:38 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:38:39 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:38:40 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:38:51 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:38:51 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:38:51 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:51 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:51 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:38:52 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:38:53 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-04-26 11:38:54 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-04-26 11:38:54 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-04-26 11:38:54 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:38:54 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:54 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:38:54 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:38:54 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:38:54 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:39:04 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:39:05 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:39:05 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:05 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:05 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:39:05 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:39:05 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:39:06 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:39:06 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:39:06 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:39:06 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:06 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:06 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:39:06 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:39:06 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:39:07 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:39:07 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:39:07 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:39:07 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:07 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:07 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:39:07 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:39:07 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:39:08 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:39:08 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:39:08 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:39:08 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:08 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:08 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:39:08 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:39:09 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:39:09 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:39:09 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:39:09 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:39:09 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:09 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:09 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:39:09 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - a160e4241ea947adeee2551dc52183af
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:39:10 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:39:11 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-04-26 11:41:09 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:41:11 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-26 11:41:11 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:41:11 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:41:11 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:41:12 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:41:12 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:41:13 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:41:13 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:41:24 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:41:24 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:41:24 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:41:24 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:41:24 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:41:25 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:41:25 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:41:26 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:41:26 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:41:29 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-04-26 11:41:39 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:41:39 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:41:39 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:41:39 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:41:39 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:41:40 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:41:40 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:41:51 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:41:51 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:41:51 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:41:51 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:41:51 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:41:52 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:41:52 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:42:03 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:42:04 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:42:04 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:04 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:04 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:42:04 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:42:05 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-04-26 11:42:05 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-04-26 11:42:05 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-04-26 11:42:05 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:42:05 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:05 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:05 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:42:06 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:42:06 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:42:16 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:42:16 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:42:16 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:16 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:16 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:42:17 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:42:17 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:42:17 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:42:17 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:42:17 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:42:17 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:17 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:17 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:42:18 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:42:18 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:42:18 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:42:18 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:42:18 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:42:18 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:18 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:18 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:42:19 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:42:19 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:42:19 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:42:19 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:42:19 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:42:19 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:19 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:19 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:42:20 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:42:20 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:42:20 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:42:20 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:42:20 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:42:20 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:20 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:20 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - 46024df930af7f1ef9b6e23d624059b9
+2025-04-26 11:42:21 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:42:22 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:42:22 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-04-26 11:45:25 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:45:27 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-26 11:45:27 [main] INFO  utils.LoggerUtils - b6479adb4c6a7db06aff6c3936a86a6c
+2025-04-26 11:45:27 [main] INFO  utils.LoggerUtils - b6479adb4c6a7db06aff6c3936a86a6c
+2025-04-26 11:45:27 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:45:28 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:45:28 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:45:29 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:45:29 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:45:30 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-04-26 11:45:40 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:45:40 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:45:40 [main] INFO  utils.LoggerUtils - b6479adb4c6a7db06aff6c3936a86a6c
+2025-04-26 11:45:40 [main] INFO  utils.LoggerUtils - b6479adb4c6a7db06aff6c3936a86a6c
+2025-04-26 11:45:40 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:45:41 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:45:42 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:45:42 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:45:42 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:45:43 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-04-26 11:47:04 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:47:06 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-26 11:47:06 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:06 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:06 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:47:07 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:47:08 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:47:09 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:47:09 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:47:19 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:47:20 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:47:20 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:20 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:20 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:47:20 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:47:21 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:47:21 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:47:22 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:47:32 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:47:33 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:47:33 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:33 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:33 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:47:33 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:47:34 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:47:44 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:47:45 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:47:45 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:45 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:45 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:47:45 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:47:46 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:47:57 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:47:57 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:47:57 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:57 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:57 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:47:58 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:47:58 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-04-26 11:47:59 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-04-26 11:47:59 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-04-26 11:47:59 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:47:59 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:59 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:47:59 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:47:59 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:47:59 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:48:09 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:48:10 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:10 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:10 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:10 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:10 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:48:11 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:48:11 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:48:11 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:48:11 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:11 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:11 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:11 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:11 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:48:12 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:48:12 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:48:12 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:48:12 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:12 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:12 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:12 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:12 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:48:12 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:48:13 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:48:13 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:48:13 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:13 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:13 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:13 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:13 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:48:13 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:48:14 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:48:14 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:48:14 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:14 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:14 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:14 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:14 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - 52df1c7e2136b2f2006b04eac25254a5
+2025-04-26 11:48:15 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:16 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:48:16 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-04-26 11:48:33 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:35 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-26 11:48:35 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:48:35 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:48:35 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:36 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:48:36 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:48:38 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:48:38 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:48:49 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:48:49 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:49 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:48:49 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:48:49 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:50 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:48:51 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:48:52 [main] INFO  utils.LoggerUtils - On the Admin - User Management Page, clicking add button...
+2025-04-26 11:48:52 [main] INFO  utils.LoggerUtils - Filling out add user form.
+2025-04-26 11:48:54 [main] INFO  utils.LoggerUtils - Saving the user...
+2025-04-26 11:48:55 [main] INFO  utils.LoggerUtils - Success message after saving the form is successfully displayed.
+2025-04-26 11:48:58 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:48:58 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:48:58 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:48:58 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:48:58 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:48:59 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:48:59 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:49:10 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:49:10 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:10 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:10 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:10 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:11 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:49:12 [main] INFO  utils.LoggerUtils - Navigating to the Admin - User Management Page ...
+2025-04-26 11:49:22 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:49:23 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:23 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:23 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:23 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:24 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:49:24 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-04-26 11:49:25 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-04-26 11:49:25 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-04-26 11:49:25 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:25 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:25 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:25 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:25 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:49:25 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:49:26 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:49:26 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:49:26 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:26 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:26 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:26 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:27 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:49:27 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:49:27 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:49:27 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:49:27 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:27 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:27 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:27 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:28 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:49:28 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:49:28 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:49:28 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:49:28 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:28 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:28 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:28 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:29 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:49:29 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:49:29 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:49:29 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:49:29 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:29 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:29 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:29 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:30 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:49:30 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:49:31 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:49:31 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:49:31 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:31 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:31 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:31 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:31 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - cfc5951ab50a729529b8fd84175e9aa7
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:49:32 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:49:33 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-04-26 11:50:58 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:50:59 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-26 11:50:59 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:50:59 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:50:59 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:51:01 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:51:01 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-04-26 11:51:01 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:51:02 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:51:02 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:02 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:02 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:51:03 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:51:03 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:51:14 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:51:14 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:51:14 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:14 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:14 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:51:14 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:51:15 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:51:15 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:51:15 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:51:15 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:51:15 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:15 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:15 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:51:16 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:51:16 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:51:17 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:51:17 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:51:17 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:51:17 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:17 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:17 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:51:17 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:51:18 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:51:18 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:51:18 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:51:18 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:51:18 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:18 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:18 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:51:19 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:51:19 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:51:19 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:51:19 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:51:19 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:51:19 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:19 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:19 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:51:20 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-04-26 11:51:20 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-04-26 11:51:20 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:51:20 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:20 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:20 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:51:20 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:51:21 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-04-26 11:51:21 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:51:21 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:21 [main] INFO  utils.LoggerUtils - a1e5b9c65f0cdcc8e580bd76f9d47873
+2025-04-26 11:51:21 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:51:21 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:51:21 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-04-26 11:56:23 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:25 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-26 11:56:25 [main] INFO  utils.LoggerUtils - b796e45f61a78b31039ff7437e949ae4
+2025-04-26 11:56:25 [main] INFO  utils.LoggerUtils - b796e45f61a78b31039ff7437e949ae4
+2025-04-26 11:56:25 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:56:27 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:56:27 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-04-26 11:56:27 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:56:27 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:27 [main] INFO  utils.LoggerUtils - b796e45f61a78b31039ff7437e949ae4
+2025-04-26 11:56:27 [main] INFO  utils.LoggerUtils - b796e45f61a78b31039ff7437e949ae4
+2025-04-26 11:56:27 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:56:28 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:56:28 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:56:32 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:56:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:32 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:56:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:32 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:56:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:32 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:56:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:32 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:56:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:32 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:56:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:32 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:56:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:32 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:56:58 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:56:59 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-26 11:56:59 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:56:59 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:56:59 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:57:00 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:57:01 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-04-26 11:57:01 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-04-26 11:57:01 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-04-26 11:57:01 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:57:01 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:01 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:01 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:57:02 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:57:02 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:57:12 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:57:12 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:57:12 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:12 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:12 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:57:13 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:57:14 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:57:14 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:57:14 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:57:14 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:57:14 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:14 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:14 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:57:14 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:57:14 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:57:15 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:57:15 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:57:15 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:57:15 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:15 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:15 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:57:15 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:57:15 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:57:16 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:57:16 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:57:16 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:57:16 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:16 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:16 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:57:16 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:57:16 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:17 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:57:18 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:57:18 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-04-26 11:57:18 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:57:18 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:18 [main] INFO  utils.LoggerUtils - 3ce392db72ecd9d5c7396f5af877c769
+2025-04-26 11:57:18 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:57:18 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:57:19 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.
+2025-04-26 11:58:32 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:58:33 [main] INFO  utils.LoggerUtils - The driver setup is complete with chrome driver.
+2025-04-26 11:58:33 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:33 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:33 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:58:34 [main] INFO  utils.LoggerUtils - Valid username and password is sent.
+2025-04-26 11:58:35 [main] INFO  utils.LoggerUtils - Validating that url contains `dashboard`
+2025-04-26 11:58:36 [main] INFO  utils.LoggerUtils - Validating that page displays `Dashboard` header
+2025-04-26 11:58:36 [main] INFO  utils.LoggerUtils - Login was successful.
+2025-04-26 11:58:36 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:58:36 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:36 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:36 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:58:36 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:58:37 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:58:47 [main] ERROR utils.LoggerUtils - Test failed! Capturing the screenshot...
+2025-04-26 11:58:47 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:58:47 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:47 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:47 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:58:48 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:58:48 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:58:48 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:58:48 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:58:48 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:58:48 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:48 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:48 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:58:49 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:58:49 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:58:50 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:58:50 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:58:50 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:58:50 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:50 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:50 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:58:50 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:58:50 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:58:51 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:58:51 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:58:51 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:58:51 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:51 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:51 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:58:51 [main] INFO  utils.LoggerUtils - Invalid ->username and password<- combination is sent.
+2025-04-26 11:58:51 [main] INFO  utils.LoggerUtils - Validating the error message element is displayed.
+2025-04-26 11:58:52 [main] INFO  utils.LoggerUtils - Validating displayed error message matches the expected.
+2025-04-26 11:58:52 [main] INFO  utils.LoggerUtils - Invalid credentials is displayed successfully.
+2025-04-26 11:58:52 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:58:52 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:52 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:52 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter username.
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing username field. 
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - Required message successfully displayed for missing password field
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - Instantiating driver.
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - aecc76bd1b5d88f4d2172fc1f368f220
+2025-04-26 11:58:53 [main] INFO  utils.LoggerUtils - ______________---------_____________
+2025-04-26 11:58:54 [main] INFO  utils.LoggerUtils - Validating when user doesn't enter password.
+2025-04-26 11:58:54 [main] INFO  utils.LoggerUtils - Required message for both missing field is successfully displayed.

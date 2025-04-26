@@ -44,6 +44,7 @@ public class Admin {
         adminPage.confirmPswdBox.sendKeys(password);
 
     }
+
     @When("I click the Save button")
     public void i_click_the_save_button() {
         LoggerUtils.info("Saving the user...");
